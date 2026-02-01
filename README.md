@@ -8,7 +8,7 @@ video tutorial that was created for the Lewis University ”Introduction to Comp
 # Activity / Assignment
 Follow the instructions below to create your own Introductions webpage using GitHub Pages. As always, be careful 
 about sharing confidential information. 
-
+https://neilmamparo.github.io/Me/
 ---
 
 # Background
